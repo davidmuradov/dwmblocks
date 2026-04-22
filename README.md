@@ -1,0 +1,2 @@
+# dwmblocks
+dwmblocks config
